@@ -63,7 +63,7 @@ namespace Shop.Data.mocks
                         IsFavourite = true,
                         Available = true,
                         Category = _categoryCars.AllCategories.First()
-                    },
+                    }
                 };
             }
          
